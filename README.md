@@ -1,1 +1,1 @@
-headless cms
+headless content management system !
